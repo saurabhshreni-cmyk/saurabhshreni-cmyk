@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Hey+there!+I'm+Saurabh+%F0%9F%91%8B;I+build+things+that+think+%F0%9F%A7%A0;Computer+Vision+%E2%80%A2+LLMs+%E2%80%A2+Backend+Systems;KV+Cache+Compression+%E2%80%A2+GraphRAG+%E2%80%A2+Pose+AI;3rd+Year+AI+student+%40+MIT+Bengaluru+%F0%9F%8E%93;Seeking+AI%2FML+%26+Backend+Internships+%F0%9F%9A%80;Open+to+collabs+%E2%80%94+let's+ship+something+%F0%9F%A4%9D" alt="Typing SVG"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=saurabhshreni-cmyk&color=6E40C9&style=flat-square&label=Profile+Views" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/saurabhshreni-cmyk?style=flat-square&color=A78BFA&label=Followers" alt="Followers"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk?style=flat-square&color=ff6b6b&label=Total+Stars" alt="Total Stars"/>
-
 </div>
 
 ---
@@ -49,7 +47,7 @@ class Saurabh:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🔥_Building-Patent_AI_Agent_%2B_ViT_Research-6E40C9?style=flat-square" alt="Building"/> <img src="https://img.shields.io/badge/📖_Learning-Spring_Boot_%2B_Kubernetes-0078D4?style=flat-square" alt="Learning"/> <img src="https://img.shields.io/badge/🔬_Exploring-Vector_DBs_%2B_MLOps-A78BFA?style=flat-square" alt="Exploring"/> <img src="https://img.shields.io/badge/💼_Status-Open_to_Internships-39d353?style=flat-square" alt="Status"/>
+<img src="https://img.shields.io/badge/🔥%20Building-Patent%20AI%20Agent-6E40C9?style=flat-square" alt="Building"/> <img src="https://img.shields.io/badge/⚒️%20Crafting-Spring%20Boot%20REST%20APIs-2d6a9f?style=flat-square" alt="Crafting"/> <img src="https://img.shields.io/badge/📖%20Learning-Spring%20Boot%20%2B%20Kubernetes-0078D4?style=flat-square" alt="Learning"/> <img src="https://img.shields.io/badge/🔬%20Exploring-Vector%20DBs%20%2B%20MLOps-7c3aed?style=flat-square" alt="Exploring"/> <img src="https://img.shields.io/badge/🎯%20Grinding-DSA%20%2B%20System%20Design-c2410c?style=flat-square" alt="Grinding"/> <img src="https://img.shields.io/badge/💼%20Status-Open%20to%20Internships-16a34a?style=flat-square" alt="Status"/>
 
 </div>
 
@@ -76,16 +74,6 @@ class Saurabh:
 **🌱 Currently Learning**
 
 <img src="https://img.shields.io/badge/Spring_Boot-0d2137?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Kubernetes-0d2137?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Apache_Kafka-0d2137?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/> <img src="https://img.shields.io/badge/AWS-0d2137?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/> <img src="https://img.shields.io/badge/GraphQL-0d2137?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL"/> <img src="https://img.shields.io/badge/Go-0d2137?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/> <img src="https://img.shields.io/badge/Terraform-0d2137?style=for-the-badge&logo=terraform&logoColor=844FBA" alt="Terraform"/> <img src="https://img.shields.io/badge/MLflow-0d2137?style=for-the-badge&logo=mlflow&logoColor=0194E2" alt="MLflow"/>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saurabhshreni-cmyk&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
@@ -148,22 +136,9 @@ class Saurabh:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhshreni-cmyk&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshreni-cmyk&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saurabhshreni-cmyk&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9" alt="GitHub Stats"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshreni-cmyk&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=saurabhshreni-cmyk&hide_border=true&theme=tokyonight&background=0d1117&stroke=6E40C9&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA" alt="Streak Stats"/>
-
-</div>
-
----
-
-## 📈 Coding Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/saurabhshreni-cmyk/saurabhshreni-cmyk/metrics-output/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-<img src="https://raw.githubusercontent.com/saurabhshreni-cmyk/saurabhshreni-cmyk/metrics-output/github-metrics-habits.svg" alt="Coding Habits" width="49%"/>
-
-*📊 Metrics auto-regenerate every 24 hours via GitHub Actions*
+<img width="100%" src="https://streak-stats.demolab.com?user=saurabhshreni-cmyk&hide_border=true&theme=tokyonight&background=0d1117&stroke=6E40C9&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA" alt="Streak Stats"/>
 
 </div>
 
@@ -174,6 +149,19 @@ class Saurabh:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhshreni-cmyk&bg_color=0d1117&color=A78BFA&line=6E40C9&point=ffffff&area=true&hide_border=true&area_color=2d1b69" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## ⏱️ Weekly Coding Breakdown
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<sub>⚡ Powered by WakaTime — install the VS Code extension + connect at wakatime.com to activate this</sub>
 
 </div>
 
@@ -193,39 +181,13 @@ class Saurabh:
 
 ## 🎯 Beyond the Code
 
-> **Training a model and training a body run on the same loop: show up, push past the plateau, log the result, repeat.** I read the midfield the way I read a loss curve — find the gap nobody else sees, then make the pass. Reps in the gym, reps in the terminal. Same discipline, different iron.
+> *"3rd year. 6 projects shipped. 1 novel research direction. Still early — but the reps are going in."*
 
 - ⚽ **Football** — Midfielder. The job is seeing the play two passes before it happens — same skill that makes good system design.
 - 💪 **Gym** — 6-day split. Hyperparameter tuning for the body: progressive overload, strict logging, no skipped epochs.
 - 🎬 **Short Filmmaking** — Falak fest regular: *Flicks*, *Spectra*, *Ad-Venture*. Storytelling in 24 frames per second.
 - 📸 **Photography** — Whether it's a shot or a problem, it all comes down to how you frame it.
 - 🎯 **Event Management** — Ran a Cricket Auction and a COD Mobile Tournament at Solstice tech fest — production systems with hundreds of live users and zero rollback option.
-
----
-
-## 🎵 Currently Playing
-
-<div align="center">
-
-<a href="https://open.spotify.com">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=6E40C9&bar_color_cover=true" alt="Spotify Now Playing"/>
-</a>
-
-*🎧 Replace YOUR_SPOTIFY_UID with your actual Spotify user ID to activate this*
-
-</div>
-
----
-
-## 💭 Thought for the Day
-
-<div align="center">
-
-<a href="https://github.com/PiyushSuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote"/>
-</a>
-
-</div>
 
 ---
 
@@ -240,10 +202,13 @@ class Saurabh:
 <br/>
 
 ```text
-$ git commit -m "year 3 of N: shipped novel ViT research, a patent agent, and a live CV app"
-$ git push origin career --force-with-lease   # no force needed — the work speaks
-> training log: consistency 100% · ego 0% · next checkpoint: your team 🚀
+//  last commit: Jun 2026
+//  status: shipping, learning, grinding
+//  next commit: better than the last one
 ```
+
+*If you're a recruiter — I deploy things that work.*
+*If you're a dev — let's build something that doesn't exist yet.*
 
 </div>
 
