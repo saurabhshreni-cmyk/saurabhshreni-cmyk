@@ -146,8 +146,17 @@ class Saurabh:
 
 <div align="center">
 
+<a href="https://github.com/saurabhshreni-cmyk/turboquant_vit">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=turboquant_vit&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
+</a>
 <a href="https://github.com/saurabhshreni-cmyk/skin-cancer-detection">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=skin-cancer-detection&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
+</a>
+<a href="https://github.com/saurabhshreni-cmyk/GraphRAG-Plus">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=GraphRAG-Plus&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
+</a>
+<a href="https://github.com/saurabhshreni-cmyk/ai-fitness-trainer">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=ai-fitness-trainer&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
 </a>
 <a href="https://github.com/saurabhshreni-cmyk/twitter-sentiment-analysis">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=twitter-sentiment-analysis&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
