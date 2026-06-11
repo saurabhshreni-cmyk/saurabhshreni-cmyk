@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d0221,60:2d1b69,100:6E40C9&height=230&section=header&text=Saurabh%20Shreni&fontSize=54&fontColor=ffffff&fontAlignY=35&fontWeight=700&desc=AI%20Engineer%20%20%C2%B7%20%20Backend%20Developer%20%20%C2%B7%20%20Builder%20of%20Things%20That%20Think&descSize=19&descAlignY=56&descColor=A78BFA&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d0221,60:2d1b69,100:6E40C9&height=230&section=header&text=Saurabh%20Shreni&fontSize=54&fontColor=ffffff&fontAlignY=35&fontWeight=700&desc=B.Tech%20CSE%20(AI)%20%C2%B7%20MIT%20Bengaluru%20%C2%B7%20Open%20to%20Internships%20%F0%9F%9A%80&descSize=17&descAlignY=56&descColor=ffffff&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://github.com/saurabhshreni-cmyk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Hey+there!+I'm+Saurabh+%F0%9F%91%8B;I+build+things+that+think+%F0%9F%A7%A0;Computer+Vision+%E2%80%A2+LLMs+%E2%80%A2+Backend+Systems;KV+Cache+Compression+%E2%80%A2+GraphRAG+%E2%80%A2+Pose+AI;3rd+Year+AI+student+%40+MIT+Bengaluru+%F0%9F%8E%93;Seeking+AI%2FML+%26+Backend+Internships+%F0%9F%9A%80;Open+to+collabs+%E2%80%94+let's+ship+something+%F0%9F%A4%9D" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&height=50&repeat=true&lines=Hey+there!+I'm+Saurabh+%F0%9F%91%8B;AI+Engineer+building+things+that+actually+ship+%F0%9F%9A%80;Computer+Vision+%C2%B7+LLMs+%C2%B7+Backend+Systems;Novel+KV+Cache+Research+on+Vision+Transformers+%F0%9F%94%AC;FastAPI+%C2%B7+PyTorch+%C2%B7+React+%C2%B7+PostgreSQL;3rd+Year+CSE+(AI)+%40+MIT+Bengaluru+%F0%9F%8E%93;Seeking+AI%2FML+%C2%B7+Backend+%C2%B7+Full-Stack+Internships;Open+to+collabs+%E2%80%94+let's+build+something+real+%F0%9F%A4%9D" alt="Typing SVG"/>
 </a>
 
 </div>
 
----
+<div align="center">
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
+</div>
 
 ## 🧬 About Me
 
@@ -41,7 +43,9 @@ class Saurabh:
         return ">>> SaurabhShreni() — AI engineer loading... ██████████ 87% ⚡"
 ```
 
----
+<div align="center">
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
+</div>
 
 ## 📡 Live Status
 
@@ -51,7 +55,9 @@ class Saurabh:
 
 </div>
 
----
+<div align="center">
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
+</div>
 
 ## 🛠️ Tech Arsenal
 
@@ -75,7 +81,9 @@ class Saurabh:
 
 <img src="https://img.shields.io/badge/Spring_Boot-0d2137?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Kubernetes-0d2137?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Apache_Kafka-0d2137?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/> <img src="https://img.shields.io/badge/AWS-0d2137?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/> <img src="https://img.shields.io/badge/GraphQL-0d2137?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL"/> <img src="https://img.shields.io/badge/Go-0d2137?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/> <img src="https://img.shields.io/badge/Terraform-0d2137?style=for-the-badge&logo=terraform&logoColor=844FBA" alt="Terraform"/> <img src="https://img.shields.io/badge/MLflow-0d2137?style=for-the-badge&logo=mlflow&logoColor=0194E2" alt="MLflow"/>
 
----
+<div align="center">
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
+</div>
 
 ## 🚀 Featured Projects
 
@@ -130,19 +138,48 @@ class Saurabh:
 </tr>
 </table>
 
----
+<div align="center">
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
+</div>
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/saurabhshreni-cmyk/skin-cancer-detection">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=skin-cancer-detection&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
+</a>
+<a href="https://github.com/saurabhshreni-cmyk/twitter-sentiment-analysis">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=twitter-sentiment-analysis&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
+</a>
+<a href="https://github.com/saurabhshreni-cmyk/gym-health-risk-prediction">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=gym-health-risk-prediction&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
+</a>
+<a href="https://github.com/saurabhshreni-cmyk/credit-card-financial-dashboard">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=credit-card-financial-dashboard&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
+</a>
+
+</div>
+
+<div align="center">
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saurabhshreni-cmyk&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9" alt="GitHub Stats"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshreni-cmyk&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saurabhshreni-cmyk&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&include_all_commits=true" alt="GitHub Stats"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshreni-cmyk&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=saurabhshreni-cmyk&hide_border=true&theme=tokyonight&background=0d1117&stroke=6E40C9&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA" alt="Streak Stats"/>
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=saurabhshreni-cmyk&hide_border=true&theme=tokyonight&background=0d1117&stroke=6E40C9&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" alt="Streak Stats"/>
 
 </div>
 
----
+<div align="center">
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
+</div>
 
 ## 🔥 Contribution Activity
 
@@ -152,20 +189,9 @@ class Saurabh:
 
 </div>
 
----
-
-## ⏱️ Weekly Coding Breakdown
-
 <div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<sub>⚡ Powered by WakaTime — install the VS Code extension + connect at wakatime.com to activate this</sub>
-
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
 </div>
-
----
 
 ## 🐍 Watch My Contributions Get Eaten
 
@@ -177,7 +203,9 @@ class Saurabh:
 
 </div>
 
----
+<div align="center">
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
+</div>
 
 ## 🎯 Beyond the Code
 
@@ -189,7 +217,9 @@ class Saurabh:
 - 📸 **Photography** — Whether it's a shot or a problem, it all comes down to how you frame it.
 - 🎯 **Event Management** — Ran a Cricket Auction and a COD Mobile Tournament at Solstice tech fest — production systems with hundreds of live users and zero rollback option.
 
----
+<div align="center">
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
+</div>
 
 ## 🤝 Let's Connect
 
@@ -201,19 +231,27 @@ class Saurabh:
 
 <br/>
 
-```text
-//  last commit: Jun 2026
-//  status: shipping, learning, grinding
-//  next commit: better than the last one
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2d1b69&height=2" />
+
+<br/>
+
+```terminal
+$ git log --oneline -1
+a7f3c2e feat: kept building when no one was watching
+
+$ whoami
+saurabh-shreni — AI engineer, 3rd year, still hungry
+
+$ status
+open to internships · ready to ship · let's go
 ```
 
-*If you're a recruiter — I deploy things that work.*
-*If you're a dev — let's build something that doesn't exist yet.*
+<sub>📬 Recruiters: I respond fast. Devs: I push faster.</sub>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,40:2d1b69,100:0d1117&height=130&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,30:4c1d95,60:1e1b4b,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=A78BFA&fontAlignY=65&animation=twinkling" width="100%" alt="footer"/>
 
 </div>
