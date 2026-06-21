@@ -8,10 +8,10 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=saurabhshreni-cmyk&style=flat-square&color=6E40C9&label=Profile+Views" alt="Profile Views"/>&nbsp;
-<img src="https://img.shields.io/github/followers/saurabhshreni-cmyk?style=flat-square&color=A78BFA&label=Followers&logo=github" alt="Followers"/>&nbsp;
-<img src="https://img.shields.io/badge/Available-For%20Internships-39d353?style=flat-square" alt="Available"/>&nbsp;
-<img src="https://img.shields.io/badge/Based%20in-Bengaluru%2C%20India-ff6b6b?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/AI%2FML%20Engineer-6E40C9?style=flat-square&logo=pytorch&logoColor=white" alt="AI/ML Engineer"/>&nbsp;
+<img src="https://img.shields.io/badge/Backend%20Developer-A78BFA?style=flat-square&logo=fastapi&logoColor=white" alt="Backend Developer"/>&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Internships-39d353?style=flat-square&logo=handshake&logoColor=white" alt="Open to Internships"/>&nbsp;
+<img src="https://img.shields.io/badge/Bengaluru%2C%20India-ff6b6b?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 
 </div>
 
@@ -21,34 +21,23 @@
 
 ## 🧬 About Me
 
-```python
-class Saurabh:
-    def __init__(self):
-        self.name                = "Saurabh Shreni"
-        self.university          = "MIT Bengaluru — B.Tech CSE (AI), 2023–27"
-        self.cgpa                = 7.52
-        self.currently_building  = [
-            "TurboQuant × ViT — KV cache compression on Vision Transformers (novel direction)",
-            "Patent AI Agent — enterprise doc generation with local LLM via Ollama",
-            "Leveling up: Java backend + System Design + K8s 📡",
-        ]
-        self.currently_learning  = ["Spring Boot", "Kubernetes", "Apache Kafka", "AWS"]
-        self.expertise           = ["Computer Vision", "LLM Systems", "FastAPI", "Full-Stack"]
-        self.when_not_coding     = ["⚽ playing midfielder", "💪 6-day gym split",
-                                    "🎬 making short films", "📸 behind a camera"]
-        self.open_to             = "AI/ML · Backend · Full-Stack internships & research collabs"
-        self.fun_fact            = (
-            "I applied KV cache compression from an ICLR 2026 paper to Vision Transformers "
-            "before anyone else did. Novel research in a semester project. 🔬"
-        )
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=saurabhshreni-cmyk&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&include_all_commits=true&hide=contribs&card_width=400" alt="Quick Stats"/>
 
-    def say_hi(self):
-        print("Thanks for stopping by! I ship things that actually work — let's build together 🚀")
-        print("Drop a ⭐ if something here helps you!")
+Third-year **B.Tech CSE (Artificial Intelligence)** student at **MIT Bengaluru**, working at the intersection of **Computer Vision, LLM systems, and backend engineering**. I care about AI that ships — work that runs in production, not just in a notebook.
 
-    def __repr__(self):
-        return ">>> SaurabhShreni() — AI engineer loading... ██████████ 87% ⚡"
-```
+Most recently, I applied **KV-cache compression** techniques from an ICLR 2026 paper to **Vision Transformers** — a direction the original authors never explored. When the loss curve flattens, you'll find me on a football pitch or behind a camera.
+
+<br/>
+
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE (AI) · MIT Bengaluru · 2023–27 |
+| 🔬 **Focus** | Computer Vision · LLM Systems · Backend Engineering |
+| 🚀 **Building** | TurboQuant × ViT · Patent AI Agent (local LLM) |
+| 🌱 **Learning** | Spring Boot · Kubernetes · Kafka · AWS |
+| 🎯 **Grinding** | DSA · System Design · Java Backend |
+| 💼 **Open to** | AI/ML · Backend · Full-Stack internships & research collabs |
+| ⚡ **Fun fact** | Took an ICLR 2026 KV-cache method to ViTs before anyone else did |
 
 <div align="center">
 <img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
@@ -185,11 +174,11 @@ class Saurabh:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saurabhshreni-cmyk&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&include_all_commits=true" alt="GitHub Stats"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshreni-cmyk&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=saurabhshreni-cmyk&hide_border=true&theme=tokyonight&background=0d1117&stroke=6E40C9&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" alt="Streak Stats"/>
 
 <br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=saurabhshreni-cmyk&hide_border=true&theme=tokyonight&background=0d1117&stroke=6E40C9&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" alt="Streak Stats"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshreni-cmyk&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
