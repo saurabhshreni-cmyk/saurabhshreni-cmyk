@@ -6,6 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&height=50&repeat=true&lines=Hey+there!+I'm+Saurabh+%F0%9F%91%8B;AI+Engineer+building+things+that+actually+ship+%F0%9F%9A%80;Computer+Vision+%C2%B7+LLMs+%C2%B7+Backend+Systems;Novel+KV+Cache+Research+on+Vision+Transformers+%F0%9F%94%AC;FastAPI+%C2%B7+PyTorch+%C2%B7+React+%C2%B7+PostgreSQL;3rd+Year+CSE+(AI)+%40+MIT+Bengaluru+%F0%9F%8E%93;Seeking+AI%2FML+%C2%B7+Backend+%C2%B7+Full-Stack+Internships;Open+to+collabs+%E2%80%94+let's+build+something+real+%F0%9F%A4%9D" alt="Typing SVG"/>
 </a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=saurabhshreni-cmyk&style=flat-square&color=6E40C9&label=Profile+Views" alt="Profile Views"/>&nbsp;
+<img src="https://img.shields.io/github/followers/saurabhshreni-cmyk?style=flat-square&color=A78BFA&label=Followers&logo=github" alt="Followers"/>&nbsp;
+<img src="https://img.shields.io/badge/Available-For%20Internships-39d353?style=flat-square" alt="Available"/>&nbsp;
+<img src="https://img.shields.io/badge/Based%20in-Bengaluru%2C%20India-ff6b6b?style=flat-square" alt="Location"/>
+
 </div>
 
 <div align="center">
@@ -218,7 +225,7 @@ class Saurabh:
 
 ## 🎯 Beyond the Code
 
-> *"3rd year. 6 projects shipped. 1 novel research direction. Still early — but the reps are going in."*
+> *"3rd year. 8 projects shipped. 1 novel research direction. Still early — but the reps are going in."*
 
 - ⚽ **Football** — Midfielder. The job is seeing the play two passes before it happens — same skill that makes good system design.
 - 💪 **Gym** — 6-day split. Hyperparameter tuning for the body: progressive overload, strict logging, no skipped epochs.
