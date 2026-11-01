@@ -26,7 +26,11 @@
 
 ## 🧬 About Me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=saurabhshreni-cmyk&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&include_all_commits=true&hide=contribs&card_width=400" alt="Quick Stats"/>
+<div align="right">
+<img src="https://img.shields.io/github/followers/saurabhshreni-cmyk?style=for-the-badge&logo=github&color=6E40C9&labelColor=0d1117" alt="Followers"/>
+<br/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsaurabhshreni-cmyk&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=A78BFA&labelColor=0d1117" alt="Public repos"/>
+</div>
 
 I'm a final-year **B.Tech CSE (Artificial Intelligence)** student at **MIT Bengaluru**, graduating in 2027. I work on **computer vision, LLM systems, and backend engineering**, and I like building things that actually run, not just notebooks.
 
@@ -162,24 +166,42 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 
 <div align="center">
 
-<a href="https://github.com/saurabhshreni-cmyk/turboquant_vit">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=turboquant_vit&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
-</a>
-<a href="https://github.com/saurabhshreni-cmyk/GraphRAG-Plus">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=GraphRAG-Plus&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
-</a>
-<a href="https://github.com/saurabhshreni-cmyk/OfflinePay">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=OfflinePay&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
-</a>
-<a href="https://github.com/saurabhshreni-cmyk/CollabBoard">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=CollabBoard&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
-</a>
-<a href="https://github.com/saurabhshreni-cmyk/skin-cancer-detection">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=skin-cancer-detection&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
-</a>
-<a href="https://github.com/saurabhshreni-cmyk/ai-code-review-agent">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhshreni-cmyk&repo=ai-code-review-agent&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=6E40C9&text_color=c9d1d9&hide_border=true" />
-</a>
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/saurabhshreni-cmyk/turboquant_vit"><strong>turboquant_vit</strong></a>
+<br/><sub>TurboQuant KV-cache compression on ViT-B/16, with a Streamlit dashboard to benchmark it.</sub>
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/turboquant_vit?style=flat-square&color=6E40C9" alt="Stars"/>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/saurabhshreni-cmyk/GraphRAG-Plus"><strong>GraphRAG-Plus</strong></a>
+<br/><sub>FastAPI hybrid retrieval backend with trust scoring, calibration and graph versioning.</sub>
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/GraphRAG-Plus?style=flat-square&color=6E40C9" alt="Stars"/>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/saurabhshreni-cmyk/OfflinePay"><strong>OfflinePay</strong></a>
+<br/><sub>Spring Boot simulator of an offline payment network with exactly-once settlement.</sub>
+<br/><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/OfflinePay?style=flat-square&color=6E40C9" alt="Stars"/>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/saurabhshreni-cmyk/CollabBoard"><strong>CollabBoard</strong></a>
+<br/><sub>Real-time collaborative whiteboard on Spring Boot, STOMP/WebSocket and React.</sub>
+<br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" alt="JavaScript"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/CollabBoard?style=flat-square&color=6E40C9" alt="Stars"/>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/saurabhshreni-cmyk/skin-cancer-detection"><strong>skin-cancer-detection</strong></a>
+<br/><sub>U-Net segmentation plus EfficientNet-B0 classification with Grad-CAM.</sub>
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/skin-cancer-detection?style=flat-square&color=6E40C9" alt="Stars"/>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/saurabhshreni-cmyk/ai-code-review-agent"><strong>ai-code-review-agent</strong></a>
+<br/><sub>Multi-agent code review API on ASP.NET Core and .NET 10.</sub>
+<br/><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/ai-code-review-agent?style=flat-square&color=6E40C9" alt="Stars"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -193,9 +215,6 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 
 <img width="60%" src="https://streak-stats.demolab.com?user=saurabhshreni-cmyk&hide_border=true&theme=tokyonight&background=0d1117&stroke=6E40C9&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" alt="Streak Stats"/>
 
-<br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshreni-cmyk&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
@@ -207,7 +226,7 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhshreni-cmyk&bg_color=0d1117&color=A78BFA&line=6E40C9&point=ffffff&area=true&hide_border=true&area_color=2d1b69" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph-sigma.vercel.app/graph?username=saurabhshreni-cmyk&bg_color=0d1117&color=A78BFA&line=6E40C9&point=ffffff&area=true&hide_border=true&area_color=2d1b69" width="100%" alt="Activity Graph"/>
 
 </div>
 
