@@ -111,13 +111,13 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 <h3>📡 OfflinePay</h3>
 <p>A Spring Boot simulator of an offline payment network: a payment hops across nearby phones to one with internet, and the backend settles it. Packets use <strong>RSA-OAEP + AES-GCM</strong> encryption with <strong>Ed25519</strong> signatures, and settlement is <strong>exactly-once</strong>. It's a simulation for learning, with no real money or UPI involved.</p>
 <p><code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>H2</code> <code>Maven</code></p>
-<p><a href="https://github.com/saurabhshreni-cmyk/OfflinePay">Code</a></p>
+<p><a href="https://github.com/saurabhshreni-cmyk/OfflinePay">Code</a> · <a href="https://offlinepay-a3pc.onrender.com">Live demo</a> <sub>(free tier, may take a minute to wake)</sub></p>
 </td>
 <td width="50%" valign="top">
 <h3>🎨 CollabBoard</h3>
 <p>A real-time collaborative whiteboard. The backend is Spring Boot with <strong>STOMP over WebSocket</strong>, boards are stored in PostgreSQL, and the frontend is React. Runs with Docker Compose and has CI.</p>
 <p><code>Java</code> <code>Spring Boot</code> <code>WebSocket</code> <code>PostgreSQL</code> <code>React</code> <code>Docker</code></p>
-<p><a href="https://github.com/saurabhshreni-cmyk/CollabBoard">Code</a></p>
+<p><a href="https://github.com/saurabhshreni-cmyk/CollabBoard">Code</a> · <a href="https://collabboard-3vp6.onrender.com">Live demo</a> <sub>(free tier, may take a minute to wake)</sub></p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,12 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 <p>An AI agent that automates parts of Indian patent filing, including <strong>Form 2 documents</strong>. It runs on a <strong>local LLM through Ollama</strong>, so nothing leaves my machine. The repo is private.</p>
 <p><code>FastAPI</code> <code>Ollama</code> <code>PostgreSQL</code> <code>Playwright</code> <code>Python</code></p>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<h3>🧪 Pitstop Resilience Console</h3>
+<p>A chaos engineering console for a ten-service .NET system. It breaks the system on purpose in a local sandbox with approval-gated fault injection and a kill switch that doesn't depend on the AI planner, and scores every run from fixed rules, never from a model. It started as a team entry in a Bosch hackathon, and this repo is my continuation of it.</p>
+<p><code>C#</code> <code>.NET 10</code> <code>Docker</code> <code>Ollama</code> <code>GitHub Actions</code></p>
+<p><a href="https://github.com/saurabhshreni-cmyk/ai-chaos-engineering">Code</a> · <a href="https://saurabhshreni-cmyk.github.io/ai-chaos-engineering/">Read-only demo</a></p>
+</td>
 </tr>
 </table>
 
