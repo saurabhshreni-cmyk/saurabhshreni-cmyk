@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d0221,60:2d1b69,100:6E40C9&height=230&section=header&text=Saurabh%20Shreni&fontSize=54&fontColor=ffffff&fontAlignY=35&fontWeight=700&desc=B.Tech%20CSE%20(AI)%20%C2%B7%20MIT%20Bengaluru%20%C2%B7%202027%20%C2%B7%20Open%20to%20Internships%20%26%20Full-Time%20Roles%20%F0%9F%9A%80&descSize=17&descAlignY=56&descColor=ffffff&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://github.com/saurabhshreni-cmyk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&height=50&repeat=true&lines=Hey+there!+I'm+Saurabh+%F0%9F%91%8B;I+build+AI+and+backend+projects+%F0%9F%9A%80;Computer+Vision+%C2%B7+LLMs+%C2%B7+Backend+Systems;KV+Cache+Compression+on+Vision+Transformers+%F0%9F%94%AC;FastAPI+%C2%B7+PyTorch+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+PostgreSQL;Final-Year+CSE+(AI)+%40+MIT+Bengaluru+%F0%9F%8E%93;Open+to+internships+and+full-time+roles+(2027+grad);Open+to+collabs+%E2%80%94+let's+build+something+real+%F0%9F%A4%9D" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&height=50&repeat=true&lines=Hey+there!+I'm+Saurabh+%F0%9F%91%8B;I+build+AI+and+backend+projects+%F0%9F%9A%80;Computer+Vision+%C2%B7+LLMs+%C2%B7+Backend+Systems;KV+Cache+Compression+on+Vision+Transformers+%F0%9F%94%AC;Java+%C2%B7+Spring+Boot+%C2%B7+C%23%2F.NET+%C2%B7+FastAPI+%C2%B7+PyTorch+%C2%B7+React;Final-Year+CSE+(AI)+%40+MIT+Bengaluru+%F0%9F%8E%93;Open+to+internships+and+full-time+roles+(2027+grad);Open+to+collabs+%E2%80%94+let's+build+something+real+%F0%9F%A4%9D" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -16,7 +16,8 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/saurabh-shreni-215b5b357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://leetcode.com/u/z1vp5Fz3UP"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/z1vp5Fz3UP"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;
+<a href="https://saurabhshreni.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
@@ -65,21 +66,27 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 
 ## 🛠️ Tech Arsenal
 
+<sub>Only tools I have actually used in my own repositories.</sub>
+
 **🤖 AI / ML & Vision**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace"/> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 
 **⚙️ Backend & Databases**
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/C%23_/_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# and .NET"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/C%23_/_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# and .NET"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
-**🎨 Frontend & Styling**
+**🎨 Frontend**
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="three.js"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
-**🐳 DevOps & Tools**
+**📈 Data & BI**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+
+**🐳 DevOps & Hosting**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/> <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
 
 **🌱 Currently Learning**
 
@@ -94,10 +101,24 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>⚡ TurboQuant × ViT</h3>
-<p>I ported TurboQuant KV-cache compression (ICLR 2026, <a href="https://arxiv.org/abs/2504.19874">arXiv:2504.19874</a>) to ViT-B/16 and benchmarked it on CIFAR-10 (256 test images). At 3 bits it gives <strong>9.14× KV-cache compression</strong> and saves <strong>85.9% of memory</strong> with no top-1 loss (83.98%). PolarQuant at 3 bits reaches 10.67×, and TurboQuant at 2 bits reaches 12.80× at −1.17% top-1. A Triton kernel is planned, not built yet.</p>
-<p><code>PyTorch</code> <code>ViT</code> <code>CIFAR-10</code> <code>Streamlit</code> <code>Python</code></p>
-<p><a href="https://github.com/saurabhshreni-cmyk/turboquant_vit">Code</a></p>
+<h3>🧪 Pitstop Resilience Console</h3>
+<p>A chaos engineering console for a ten-service .NET system. It breaks the system on purpose in a local sandbox: every fault needs operator approval, has a time cap and a kill switch that doesn't depend on the AI planner, and every run is scored by fixed rules, never by a model. It started as a team entry in a Bosch hackathon; this repo is my continuation.</p>
+<p><code>C#</code> <code>.NET 10</code> <code>Docker</code> <code>Ollama</code> <code>GitHub Actions</code></p>
+<p><a href="https://github.com/saurabhshreni-cmyk/ai-chaos-engineering">Code</a> · <a href="https://saurabhshreni-cmyk.github.io/ai-chaos-engineering/">Read-only demo</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>📡 OfflinePay</h3>
+<p>A Spring Boot simulator of an offline payment network: a payment hops across nearby phones to one with internet, and the backend settles it. Packets use <strong>RSA-OAEP + AES-GCM</strong> encryption with <strong>Ed25519</strong> signatures, and settlement is <strong>exactly-once</strong>. It's a simulation for learning, with no real money or UPI involved.</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>H2</code> <code>Maven</code></p>
+<p><a href="https://github.com/saurabhshreni-cmyk/OfflinePay">Code</a> · <a href="https://offlinepay-a3pc.onrender.com">Live demo</a> <sub>(free tier, may take a minute to wake)</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎨 CollabBoard</h3>
+<p>A real-time collaborative whiteboard. The backend is Spring Boot with <strong>STOMP over WebSocket</strong>, boards are stored in PostgreSQL, and the frontend is React. Runs with Docker Compose and has CI.</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>WebSocket</code> <code>PostgreSQL</code> <code>React</code> <code>Docker</code></p>
+<p><a href="https://github.com/saurabhshreni-cmyk/CollabBoard">Code</a> · <a href="https://collabboard-3vp6.onrender.com">Live demo</a> <sub>(free tier, may take a minute to wake)</sub></p>
 </td>
 <td width="50%" valign="top">
 <h3>🔍 GraphRAG++</h3>
@@ -108,24 +129,10 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>📡 OfflinePay</h3>
-<p>A Spring Boot simulator of an offline payment network: a payment hops across nearby phones to one with internet, and the backend settles it. Packets use <strong>RSA-OAEP + AES-GCM</strong> encryption with <strong>Ed25519</strong> signatures, and settlement is <strong>exactly-once</strong>. It's a simulation for learning, with no real money or UPI involved.</p>
-<p><code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>H2</code> <code>Maven</code></p>
-<p><a href="https://github.com/saurabhshreni-cmyk/OfflinePay">Code</a> · <a href="https://offlinepay-a3pc.onrender.com">Live demo</a> <sub>(free tier, may take a minute to wake)</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3>🎨 CollabBoard</h3>
-<p>A real-time collaborative whiteboard. The backend is Spring Boot with <strong>STOMP over WebSocket</strong>, boards are stored in PostgreSQL, and the frontend is React. Runs with Docker Compose and has CI.</p>
-<p><code>Java</code> <code>Spring Boot</code> <code>WebSocket</code> <code>PostgreSQL</code> <code>React</code> <code>Docker</code></p>
-<p><a href="https://github.com/saurabhshreni-cmyk/CollabBoard">Code</a> · <a href="https://collabboard-3vp6.onrender.com">Live demo</a> <sub>(free tier, may take a minute to wake)</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🩺 MelaNet</h3>
-<p>Two-stage skin cancer detection: U-Net segmentation on ISIC 2018 (<strong>Dice 0.85</strong>) feeding EfficientNet-B0 classification on ISIC 2020 (<strong>AUC 0.879</strong>), with Grad-CAM to show what the model is looking at.</p>
-<p><code>PyTorch</code> <code>OpenCV</code> <code>albumentations</code> <code>ISIC</code> <code>Python</code></p>
-<p><a href="https://github.com/saurabhshreni-cmyk/skin-cancer-detection">Code</a></p>
+<h3>⚡ TurboQuant × ViT</h3>
+<p>I ported TurboQuant KV-cache compression (ICLR 2026, <a href="https://arxiv.org/abs/2504.19874">arXiv:2504.19874</a>) to ViT-B/16 and benchmarked it on CIFAR-10 (256 test images). At 3 bits it gives <strong>9.14× KV-cache compression</strong> and saves <strong>85.9% of memory</strong> with no top-1 loss (83.98%). PolarQuant at 3 bits reaches 10.67×, and TurboQuant at 2 bits reaches 12.80× at −1.17% top-1. A Triton kernel is planned, not built yet.</p>
+<p><code>PyTorch</code> <code>ViT</code> <code>CIFAR-10</code> <code>Streamlit</code> <code>Python</code></p>
+<p><a href="https://github.com/saurabhshreni-cmyk/turboquant_vit">Code</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>🤖 AI Code Review Agent</h3>
@@ -134,34 +141,21 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 <p><a href="https://github.com/saurabhshreni-cmyk/ai-code-review-agent">Code</a> · <a href="https://ai-code-review-agent-boot.onrender.com">Live demo</a> <sub>(free tier, may take a minute to wake)</sub></p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🏋️ AI Fitness Trainer</h3>
-<p>Real-time pose estimation and rep counter built on MediaPipe, with a FastAPI backend and a React/Vite frontend. Point your webcam at yourself and it counts reps and scores your form.</p>
-<p><code>FastAPI</code> <code>MediaPipe</code> <code>React</code> <code>Vite</code> <code>Python</code></p>
-<p><a href="https://github.com/saurabhshreni-cmyk/ai-fitness-trainer">Code</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>📊 Credit Card Financial Dashboard</h3>
-<p>Power BI dashboard tracking <strong>$57M revenue</strong>, <strong>$8M interest earned</strong>, and <strong>$46M transactions</strong> with <strong>+28.8% WoW growth</strong> analysis.</p>
-<p><code>Power BI</code> <code>DAX</code> <code>CSV Data Pipeline</code></p>
-<p><a href="https://github.com/saurabhshreni-cmyk/credit-card-financial-dashboard">Code</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📄 Patent AI Agent</h3>
-<p>An AI agent that automates parts of Indian patent filing, including <strong>Form 2 documents</strong>. It runs on a <strong>local LLM through Ollama</strong>, so nothing leaves my machine. The repo is private.</p>
-<p><code>FastAPI</code> <code>Ollama</code> <code>PostgreSQL</code> <code>Playwright</code> <code>Python</code></p>
-</td>
-<td width="50%" valign="top">
-<h3>🧪 Pitstop Resilience Console</h3>
-<p>A chaos engineering console for a ten-service .NET system. It breaks the system on purpose in a local sandbox with approval-gated fault injection and a kill switch that doesn't depend on the AI planner, and scores every run from fixed rules, never from a model. It started as a team entry in a Bosch hackathon, and this repo is my continuation of it.</p>
-<p><code>C#</code> <code>.NET 10</code> <code>Docker</code> <code>Ollama</code> <code>GitHub Actions</code></p>
-<p><a href="https://github.com/saurabhshreni-cmyk/ai-chaos-engineering">Code</a> · <a href="https://saurabhshreni-cmyk.github.io/ai-chaos-engineering/">Read-only demo</a></p>
-</td>
-</tr>
 </table>
+
+<div align="center">
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
+</div>
+
+## 🧰 More Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🩺 [**MelaNet**](https://github.com/saurabhshreni-cmyk/skin-cancer-detection) | Two-stage skin cancer detection: U-Net segmentation on ISIC 2018 (**Dice 0.85**) feeding EfficientNet-B0 on ISIC 2020 (**AUC 0.879**), with Grad-CAM to show what the model looks at. | PyTorch · OpenCV · albumentations |
+| 🚗 [**Lotline**](https://github.com/saurabhshreni-cmyk/car-dealership-inventory) | Car dealership inventory app with JWT auth, admin stock management and atomic purchases, so two buyers can never take the last car. Built test-first. | FastAPI · PostgreSQL · React · Vite |
+| 📄 **Patent AI Agent** <sub>(private)</sub> | An AI agent that automates parts of Indian patent filing, including Form 2 documents. It runs on a local LLM through Ollama, so nothing leaves my machine. | FastAPI · Ollama · PostgreSQL · Playwright |
+| 🏋️ [**AI Fitness Trainer**](https://github.com/saurabhshreni-cmyk/ai-fitness-trainer) | Real-time pose estimation and rep counter on MediaPipe. Point your webcam at yourself and it counts reps and scores your form. | MediaPipe · FastAPI · React · Vite |
+| 📊 [**Credit Card Financial Dashboard**](https://github.com/saurabhshreni-cmyk/credit-card-financial-dashboard) | Power BI dashboard tracking **$57M revenue**, **$8M interest earned** and **$46M transactions**, with **+28.8% WoW growth** analysis. | Power BI · DAX |
 
 <div align="center">
 <img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6E40C9,100:0d1117&height=2" />
@@ -174,31 +168,31 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/saurabhshreni-cmyk/turboquant_vit"><strong>turboquant_vit</strong></a>
-<br/><sub>TurboQuant KV-cache compression on ViT-B/16, with a Streamlit dashboard to benchmark it.</sub>
-<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/turboquant_vit?style=flat-square&color=6E40C9" alt="Stars"/>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/saurabhshreni-cmyk/GraphRAG-Plus"><strong>GraphRAG-Plus</strong></a>
-<br/><sub>FastAPI hybrid retrieval backend with trust scoring, calibration and graph versioning.</sub>
-<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/GraphRAG-Plus?style=flat-square&color=6E40C9" alt="Stars"/>
+<a href="https://github.com/saurabhshreni-cmyk/ai-chaos-engineering"><strong>ai-chaos-engineering</strong></a>
+<br/><sub>Chaos engineering console for a ten-service .NET system, with approval-gated faults and rule-based scores.</sub>
+<br/><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/ai-chaos-engineering?style=flat-square&color=6E40C9" alt="Stars"/>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/saurabhshreni-cmyk/OfflinePay"><strong>OfflinePay</strong></a>
 <br/><sub>Spring Boot simulator of an offline payment network with exactly-once settlement.</sub>
 <br/><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/OfflinePay?style=flat-square&color=6E40C9" alt="Stars"/>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/saurabhshreni-cmyk/CollabBoard"><strong>CollabBoard</strong></a>
 <br/><sub>Real-time collaborative whiteboard on Spring Boot, STOMP/WebSocket and React.</sub>
 <br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" alt="JavaScript"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/CollabBoard?style=flat-square&color=6E40C9" alt="Stars"/>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
-<a href="https://github.com/saurabhshreni-cmyk/skin-cancer-detection"><strong>skin-cancer-detection</strong></a>
-<br/><sub>U-Net segmentation plus EfficientNet-B0 classification with Grad-CAM.</sub>
-<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/skin-cancer-detection?style=flat-square&color=6E40C9" alt="Stars"/>
+<a href="https://github.com/saurabhshreni-cmyk/GraphRAG-Plus"><strong>GraphRAG-Plus</strong></a>
+<br/><sub>FastAPI hybrid retrieval backend with trust scoring, calibration and graph versioning.</sub>
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/GraphRAG-Plus?style=flat-square&color=6E40C9" alt="Stars"/>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/saurabhshreni-cmyk/turboquant_vit"><strong>turboquant_vit</strong></a>
+<br/><sub>TurboQuant KV-cache compression on ViT-B/16, with a Streamlit dashboard to benchmark it.</sub>
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> <img src="https://img.shields.io/github/stars/saurabhshreni-cmyk/turboquant_vit?style=flat-square&color=6E40C9" alt="Stars"/>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/saurabhshreni-cmyk/ai-code-review-agent"><strong>ai-code-review-agent</strong></a>
@@ -219,7 +213,6 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 <div align="center">
 
 <img width="60%" src="https://streak-stats.demolab.com?user=saurabhshreni-cmyk&hide_border=true&theme=tokyonight&background=0d1117&stroke=6E40C9&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" alt="Streak Stats"/>
-
 
 </div>
 
@@ -271,7 +264,7 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/saurabh-shreni-215b5b357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/saurabhshreni-cmyk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://leetcode.com/u/z1vp5Fz3UP"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.linkedin.com/in/saurabh-shreni-215b5b357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/saurabhshreni-cmyk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://leetcode.com/u/z1vp5Fz3UP"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a> <a href="https://saurabhshreni.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 ***Open to internships, full-time roles (2027 graduate) & research collaborations — AI/ML · Backend · Full-Stack***
 
