@@ -117,8 +117,8 @@ Most recently, I tried the **KV-cache compression** method from an ICLR 2026 pap
 <tr>
 <td width="50%" valign="top">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2d1b69,100:6E40C9&height=64&text=CollabBoard&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="CollabBoard"/>
-<p>A real-time collaborative whiteboard. The backend is Spring Boot with <strong>STOMP over WebSocket</strong>, boards are stored in PostgreSQL, and the frontend is React. Runs with Docker Compose and has CI.</p>
-<p><code>Java</code> <code>Spring Boot</code> <code>WebSocket</code> <code>PostgreSQL</code> <code>React</code> <code>Docker</code></p>
+<p>A real-time collaborative whiteboard. Spring Boot syncs every edit over <strong>STOMP/WebSocket</strong> with live cursors; <strong>row locks</strong>, ordered events and an offline queue keep every board identical. 8 sync bugs each reproduced by a failing test first; <strong>241 tests</strong>. One Docker service on Render, boards in Neon PostgreSQL.</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>WebSocket</code> <code>PostgreSQL</code> <code>React</code> <code>Docker</code> <code>Neon</code></p>
 <p><a href="https://github.com/saurabhshreni-cmyk/CollabBoard">Code</a> · <a href="https://collabboard-3vp6.onrender.com">Live demo</a> <sub>(free tier, may take a minute to wake)</sub></p>
 </td>
 <td width="50%" valign="top">
